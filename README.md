@@ -1,5 +1,5 @@
 # Intune Device Diagnostic Tool
-<img src="https://github.com/user-attachments/assets/3bf73913-da85-4aca-b686-411780bf06c4" alt="Imagen" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/de94eba5-c736-4b6e-9142-08a00d769454" alt="Imagen" width="300" height="300">
 
 This PowerShell script allows diagnostics and searches on devices registered in Microsoft Intune, filtering by various conditions and displaying relevant information. It also provides troubleshooting assistance to help identify potential issues with Intune devices, such as inactivity or licensing problems.
 
