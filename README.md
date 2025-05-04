@@ -61,4 +61,4 @@ Make sure you have appropriate permissions to access the Intune devices and Micr
 - If there are issues connecting to Microsoft Graph, ensure you have the necessary permissions and are connected to the correct tenant.
 - If the script is unable to check for the latest OS version, it may be due to an issue with the release page URL or the OS version format.
 
-<img src="https://github.com/user-attachments/assets/69b04ebd-1159-4e7a-a84c-9c2a5ec69bd4" alt="Imagen" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/fd6487f7-1506-4062-9acb-e00cb94054d1" alt="Imagen" width="600" height="800">
